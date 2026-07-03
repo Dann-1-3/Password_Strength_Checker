@@ -1,6 +1,10 @@
+# pyrefly: ignore [missing-import]
 from password_strength import PasswordStats
 
 def password_strength(password):
+    # Handle empty password case
+    if not password:
+        return "Weak"
    
     # Initialize password strength metrics
     length_score = 0
@@ -45,4 +49,4 @@ def password_strength(password):
 
 # Example usage
 password = input("Enter a password: ")
-print("The strength of the passord is :", password_strength(password))
+print("The strength of the password is :", password_strength(password))
