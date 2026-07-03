@@ -24,6 +24,7 @@ The objective of this project is to evaluate the strength of user-created passwo
 
 
 ### Output 
-![image](https://github.com/user-attachments/assets/8e01e7a0-83ac-4177-9e18-8f0855b551a1)
+<img width="1497" height="282" alt="image" src="https://github.com/user-attachments/assets/5b0f32ea-d4d1-45c4-bdeb-c1d68533338f" />
+
 
 
