@@ -45,4 +45,4 @@ def password_strength(password):
 
 # Example usage
 password = input("Enter a password: ")
-print("The password strength is :", password_strength(password))
+print("The strength of the passord is :", password_strength(password))
