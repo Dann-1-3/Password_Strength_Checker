@@ -1,6 +1,6 @@
 **Name:** DANUSH ARVIND S
 
-**Domain:** Cyber Security and Ethical Hacking
+**Domain:** Cyber Security
 
 
 ## Overview of the Project
